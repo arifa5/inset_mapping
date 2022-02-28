@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.076904296875,
+          51.53266860674158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Plymouth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.130859375,
+          50.401515322782366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bristol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5982666015625,
+          51.45571839040817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1318359375,
+          52.22779941887071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Birmingham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8951416015625002,
+          52.51956352925745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Liverpool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96630859375,
+          53.416080203680465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Manchester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.21923828125,
+          53.50438429010248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Leeds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.527099609375,
+          53.83632232122981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Newcastle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.62872314453125,
+          54.968155034807836
+        ]
+      }
+    }
+  ]
+}
